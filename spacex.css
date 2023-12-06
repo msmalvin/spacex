@@ -1,0 +1,113 @@
+.one{
+    background-image: url("./images/30934147078_d3fc6602fb_k\ \(2\).jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: xx-small;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+p{
+    margin-top: 150px;
+    margin-left: 50px;
+    color: white;
+    
+}
+.two{
+    margin-top: -60px;
+    margin-left: -105px;
+    font-size:35px;
+}
+.three{
+    margin-top: -15px;
+    margin-left: 50px;
+   
+}
+ button {
+    background-color: rgba(255, 255, 255, 0.118);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color:white;
+    color: black;
+  }
+@media(max-width:1000px){
+    .one{
+       
+            width: 100%;
+            height: 100%;
+            background-image: url('./images/30934147078_d3fc6602fb_k\ \(2\).jpg');
+            background-size: 100% 100%;
+          }
+    
+    img{
+        margin-left: 50%;
+    }
+ span{
+    display: none;
+ }
+ .two{
+    font-size: 15px;
+    margin-top: -36px;
+    margin-left: -13px;
+ }
+ 
+ 
+}
+
+.four{
+    background-image: url("./images/13_09_2021_10_08_19_7093936\ \(1\).jpeg");
+    height: 800px;
+    background-repeat: no-repeat;
+    margin-top: -150px;
+}
+.five{
+    margin-top: -73px;
+    font-size: 35px;
+    padding: 0px;
+}
+@media(max-width:1000px){
+    .four{
+       
+            width: 100%;
+            height: 100%;
+            background-image: url('./images/13_09_2021_10_08_19_7093936\ \(1\).jpeg');
+            background-size: 100% 100%;
+          }
+          .five{
+            font-size: 15px;
+            margin-left: 35px;
+          }
+        }
+
+.seven{
+    margin-top:150px ;
+    color: white;
+    font-size: 15px;
+}
+
+.six{
+    background-image: url("./images/09-01-2023_Starlink_SpaceX_Space_Launch_Complex_40\ \(1\).jpeg");
+    height: 800px;
+    background-repeat: no-repeat;
+    margin-top: -150px;
+}
+@media(max-width:1000px){
+    .six{
+       
+            width: 100%;
+            height: 100%;
+            background-image: url('./images/09-01-2023_Starlink_SpaceX_Space_Launch_Complex_40\ \(1\).jpeg');
+            background-size: 100% 100%;
+          }
+        }
